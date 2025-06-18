@@ -1,0 +1,736 @@
+{
+    "mon_thi": [
+        {
+            "ma_mon": "T001",
+            "ten_mon": "Bảo mật máy tính"
+        },
+        {
+            "ma_mon": "T002",
+            "ten_mon": "Lập trình Python"
+        },
+        {
+            "ma_mon": "T003",
+            "ten_mon": "Mạng máy tính"
+        },
+        {
+            "ma_mon": "T004",
+            "ten_mon": "Cơ sở dữ liệu"
+        },
+        {
+            "ma_mon": "T005",
+            "ten_mon": "Khoa học Máy tính"
+        },
+        {
+            "ma_mon": "T006",
+            "ten_mon": "Anh văn 3"
+        }
+    ],
+    "cau_hoi": {
+        "Bảo mật máy tính": {
+            "BT001": {
+                "ten_de": "Đề thi Bảo mật máy tính",
+                "ngay_den_han": "10-06-2025",
+                "cau_hoi": [
+                    {
+                        "id": 1,
+                        "cau_hoi": "Giao thức nào bảo vệ dữ liệu trong HTTPS?",
+                        "dap_an": [
+                            "SSL/TLS",
+                            "IPSec",
+                            "VPN",
+                            "Kerberos"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 2,
+                        "cau_hoi": "Tấn công nào cố đoán mật khẩu bằng nhiều kết hợp?",
+                        "dap_an": [
+                            "Phishing",
+                            "Brute Force",
+                            "Man-in-the-Middle",
+                            "SQL Injection"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 3,
+                        "cau_hoi": "Mô hình nào đảm bảo tính toàn vẹn dữ liệu?",
+                        "dap_an": [
+                            "Bell-LaPadula",
+                            "Biba",
+                            "Role-Based Access",
+                            "Discretionary Access"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 4,
+                        "cau_hoi": "Giao thức nào mã hóa email bằng khóa công khai?",
+                        "dap_an": [
+                            "S/MIME",
+                            "HTTP",
+                            "FTP",
+                            "SNMP"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 5,
+                        "cau_hoi": "Tấn công nào giả mạo địa chỉ IP?",
+                        "dap_an": [
+                            "Spoofing",
+                            "Pharming",
+                            "Keylogging",
+                            "Eavesdropping"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 6,
+                        "cau_hoi": "Hàm băm nào được dùng trong blockchain?",
+                        "dap_an": [
+                            "MD5",
+                            "SHA-256",
+                            "SHA-1",
+                            "CRC32"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 7,
+                        "cau_hoi": "Tường lửa hoạt động chủ yếu ở tầng nào của OSI?",
+                        "dap_an": [
+                            "Application",
+                            "Transport",
+                            "Network",
+                            "Data Link"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 8,
+                        "cau_hoi": "Chứng chỉ số được cấp bởi ai?",
+                        "dap_an": [
+                            "ISP",
+                            "CA",
+                            "DNS",
+                            "DHCP"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 9,
+                        "cau_hoi": "Tấn công nào chèn mã độc vào trang web?",
+                        "dap_an": [
+                            "Cross-Site Scripting",
+                            "DDoS",
+                            "SQL Injection",
+                            "Session Hijacking"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 10,
+                        "cau_hoi": "Phương pháp nào phát hiện xâm nhập bằng hành vi?",
+                        "dap_an": [
+                            "Signature-based",
+                            "Anomaly-based",
+                            "Rule-based",
+                            "Policy-based"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 11,
+                        "cau_hoi": "Mã độc nào tự sao chép mà không cần người dùng?",
+                        "dap_an": [
+                            "Virus",
+                            "Trojan",
+                            "Worm",
+                            "Spyware"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 12,
+                        "cau_hoi": "Kỹ thuật nào sử dụng khóa đối xứng để mã hóa?",
+                        "dap_an": [
+                            "RSA",
+                            "AES",
+                            "DSA",
+                            "ECC"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 13,
+                        "cau_hoi": "Hệ thống nào giám sát lưu lượng mạng để phát hiện xâm nhập?",
+                        "dap_an": [
+                            "IDS",
+                            "Firewall",
+                            "VPN",
+                            "Proxy"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 14,
+                        "cau_hoi": "Tấn công nào khai thác lỗ hổng phần mềm chưa vá?",
+                        "dap_an": [
+                            "Zero-day",
+                            "Phishing",
+                            "Brute Force",
+                            "Man-in-the-Middle"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 15,
+                        "cau_hoi": "Giao thức nào xác thực người dùng trong mạng doanh nghiệp?",
+                        "dap_an": [
+                            "LDAP",
+                            "SNMP",
+                            "FTP",
+                            "HTTP"
+                        ],
+                        "dap_an_dung": 0
+                    }
+                ]
+            }
+        },
+        "Lập trình Python": {
+            "TP001": {
+                "ten_de": "Đề thi Lập trình Python",
+                "ngay_den_han": "15/07-2025",
+                "cau_hoi": [
+                    {
+                        "id": 1,
+                        "cau_hoi": "Thư viện nào xử lý biểu thức chính quy trong Python?",
+                        "dap_an": [
+                            "os",
+                            "re",
+                            "json",
+                            "math"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 2,
+                        "cau_hoi": "Câu lệnh nào thoát khỏi vòng lặp?",
+                        "dap_an": [
+                            "exit",
+                            "break",
+                            "continue",
+                            "return"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 3,
+                        "cau_hoi": "Kiểu dữ liệu nào không thể thay đổi?",
+                        "dap_an": [
+                            "List",
+                            "Dictionary",
+                            "Tuple",
+                            "Set"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 4,
+                        "cau_hoi": "Hàm nào lấy độ dài của danh sách?",
+                        "dap_an": [
+                            "len()",
+                            "size()",
+                            "count()",
+                            "length()"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 5,
+                        "cau_hoi": "Câu lệnh nào nhập module?",
+                        "dap_an": [
+                            "include",
+                            "import",
+                            "require",
+                            "load"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 6,
+                        "cau_hoi": "Phương thức nào thêm phần tử vào cuối danh sách?",
+                        "dap_an": [
+                            "append()",
+                            "add()",
+                            "insert()",
+                            "extend()"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 7,
+                        "cau_hoi": "Ký tự nào dùng để chú thích một dòng?",
+                        "dap_an": [
+                            "//",
+                            "#",
+                            "/*",
+                            "--"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 8,
+                        "cau_hoi": "Kiểu dữ liệu nào lưu cặp key-value?",
+                        "dap_an": [
+                            "List",
+                            "Tuple",
+                            "Dictionary",
+                            "Set"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 9,
+                        "cau_hoi": "Hàm nào chuyển chuỗi thành số nguyên?",
+                        "dap_an": [
+                            "float()",
+                            "str()",
+                            "int()",
+                            "bool()"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 10,
+                        "cau_hoi": "Câu lệnh nào bỏ qua lần lặp hiện tại?",
+                        "dap_an": [
+                            "break",
+                            "continue",
+                            "pass",
+                            "return"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 11,
+                        "cau_hoi": "Thư viện nào xử lý ngày giờ?",
+                        "dap_an": [
+                            "time",
+                            "datetime",
+                            "calendar",
+                            "date"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 12,
+                        "cau_hoi": "Phương thức nào xóa phần tử theo giá trị?",
+                        "dap_an": [
+                            "pop()",
+                            "remove()",
+                            "clear()",
+                            "delete()"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 13,
+                        "cau_hoi": "Hàm nào trả về giá trị lớn nhất trong danh sách?",
+                        "dap_an": [
+                            "max()",
+                            "min()",
+                            "sum()",
+                            "avg()"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 14,
+                        "cau_hoi": "Câu lệnh nào xử lý ngoại lệ?",
+                        "dap_an": [
+                            "if-else",
+                            "try-except",
+                            "for-else",
+                            "while-else"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 15,
+                        "cau_hoi": "Thư viện nào tạo giao diện đồ họa?",
+                        "dap_an": [
+                            "tkinter",
+                            "pandas",
+                            "numpy",
+                            "matplotlib"
+                        ],
+                        "dap_an_dung": 0
+                    }
+                ]
+            }
+        },
+        "Mạng máy tính": {
+            "TM001": {
+                "ten_de": "Đề thi Mạng máy tính",
+                "ngay_den_han": "08-06-2025",
+                "cau_hoi": [
+                    {
+                        "id": 1,
+                        "cau_hoi": "Giao thức nào truyền dữ liệu không đáng tin cậy?",
+                        "dap_an": [
+                            "TCP",
+                            "UDP",
+                            "HTTP",
+                            "FTP"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 2,
+                        "cau_hoi": "Tầng nào định tuyến gói tin trong mô hình OSI?",
+                        "dap_an": [
+                            "Application",
+                            "Transport",
+                            "Network",
+                            "Data Link"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 3,
+                        "cau_hoi": "Địa chỉ IP lớp C có bao nhiêu bit cho host?",
+                        "dap_an": [
+                            "8",
+                            "16",
+                            "24",
+                            "32"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 4,
+                        "cau_hoi": "Giao thức nào chuyển IP sang MAC?",
+                        "dap_an": [
+                            "ARP",
+                            "RARP",
+                            "DNS",
+                            "DHCP"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 5,
+                        "cau_hoi": "Giao thức nào sử dụng cổng 443?",
+                        "dap_an": [
+                            "FTP",
+                            "HTTP",
+                            "HTTPS",
+                            "SMTP"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 6,
+                        "cau_hoi": "Thiết bị nào hoạt động ở tầng Data Link?",
+                        "dap_an": [
+                            "Router",
+                            "Switch",
+                            "Gateway",
+                            "Firewall"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 7,
+                        "cau_hoi": "Giao thức nào phân giải tên miền?",
+                        "dap_an": [
+                            "DHCP",
+                            "DNS",
+                            "ARP",
+                            "ICMP"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 8,
+                        "cau_hoi": "Địa chỉ 192.168.1.1 là loại nào?",
+                        "dap_an": [
+                            "Public",
+                            "Private",
+                            "Broadcast",
+                            "Multicast"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 9,
+                        "cau_hoi": "Giao thức nào kiểm tra kết nối mạng?",
+                        "dap_an": [
+                            "Ping",
+                            "Telnet",
+                            "SSH",
+                            "FTP"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 10,
+                        "cau_hoi": "Mô hình TCP/IP có bao nhiêu tầng?",
+                        "dap_an": [
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 11,
+                        "cau_hoi": "Giao thức nào quản lý mạng từ xa?",
+                        "dap_an": [
+                            "SNMP",
+                            "FTP",
+                            "SMTP",
+                            "HTTP"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 12,
+                        "cau_hoi": "Địa chỉ 255.255.255.255 là gì?",
+                        "dap_an": [
+                            "Unicast",
+                            "Multicast",
+                            "Broadcast",
+                            "Anycast"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 13,
+                        "cau_hoi": "Giao thức nào gửi email?",
+                        "dap_an": [
+                            "POP3",
+                            "IMAP",
+                            "SMTP",
+                            "HTTP"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 14,
+                        "cau_hoi": "Thiết bị nào kết nối các mạng khác nhau?",
+                        "dap_an": [
+                            "Switch",
+                            "Router",
+                            "Hub",
+                            "Bridge"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 15,
+                        "cau_hoi": "Giao thức nào cấp phát IP động?",
+                        "dap_an": [
+                            "DNS",
+                            "DHCP",
+                            "ARP",
+                            "RARP"
+                        ],
+                        "dap_an_dung": 1
+                    }
+                ]
+            }
+        },
+        "Cơ sở dữ liệu": {
+            "TC001": {
+                "ten_de": "Đề thi Cơ sở dữ liệu",
+                "ngay_den_han": "20-06-2025",
+                "cau_hoi": []
+            }
+        },
+        "Khoa học Máy tính": {
+            "TK001": {
+                "ten_de": "Đề thi Khoa học Máy tính",
+                "ngay_den_han": "19-06-2025",
+                "cau_hoi": [
+                    {
+                        "id": 1,
+                        "cau_hoi": "Một Megabyte bằng bao nhiêu byte?",
+                        "dap_an": [
+                            "1000",
+                            "1024",
+                            "1000000",
+                            "1048576"
+                        ],
+                        "dap_an_dung": 3
+                    },
+                    {
+                        "id": 2,
+                        "cau_hoi": "Ngôn ngữ nào tạo kiểu cho trang web?",
+                        "dap_an": [
+                            "HTML",
+                            "CSS",
+                            "JavaScript",
+                            "Python"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 3,
+                        "cau_hoi": "Giao thức nào truyền tệp qua mạng?",
+                        "dap_an": [
+                            "HTTP",
+                            "FTP",
+                            "SMTP",
+                            "DNS"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 4,
+                        "cau_hoi": "Thành phần nào là 'trái tim' của máy tính?",
+                        "dap_an": [
+                            "CPU",
+                            "RAM",
+                            "GPU",
+                            "Motherboard"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 5,
+                        "cau_hoi": "Ngôn ngữ nào được tạo ra đầu tiên?",
+                        "dap_an": [
+                            "Python",
+                            "Java",
+                            "C",
+                            "Ruby"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 6,
+                        "cau_hoi": "Hệ điều hành Linux được phát triển bởi ai?",
+                        "dap_an": [
+                            "Linus Torvalds",
+                            "Bill Gates",
+                            "Steve Jobs",
+                            "Mark Zuckerberg"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 7,
+                        "cau_hoi": "Mã nguồn Linux dùng giấy phép nào?",
+                        "dap_an": [
+                            "MIT",
+                            "GPL",
+                            "Apache",
+                            "BSD"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 8,
+                        "cau_hoi": "Định dạng nào nén dữ liệu?",
+                        "dap_an": [
+                            ".txt",
+                            ".zip",
+                            ".exe",
+                            ".doc"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 9,
+                        "cau_hoi": "Thiết bị nào lưu trữ dữ liệu lâu dài?",
+                        "dap_an": [
+                            "RAM",
+                            "CPU",
+                            "HDD",
+                            "GPU"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 10,
+                        "cau_hoi": "Ngôn ngữ nào dùng trong Unity 3D?",
+                        "dap_an": [
+                            "C#",
+                            "C++",
+                            "Java",
+                            "Python"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 11,
+                        "cau_hoi": "Một byte có bao nhiêu bit?",
+                        "dap_an": [
+                            "4",
+                            "8",
+                            "16",
+                            "32"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 12,
+                        "cau_hoi": "Hệ điều hành nào do Apple phát triển?",
+                        "dap_an": [
+                            "Windows",
+                            "Linux",
+                            "macOS",
+                            "Android"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 13,
+                        "cau_hoi": "Ngôn ngữ nào phát triển web động?",
+                        "dap_an": [
+                            "HTML",
+                            "CSS",
+                            "JavaScript",
+                            "XML"
+                        ],
+                        "dap_an_dung": 2
+                    },
+                    {
+                        "id": 14,
+                        "cau_hoi": "Thiết bị nào xử lý đồ họa?",
+                        "dap_an": [
+                            "CPU",
+                            "GPU",
+                            "RAM",
+                            "SSD"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 15,
+                        "cau_hoi": "Hệ nhị phân dùng bao nhiêu ký số?",
+                        "dap_an": [
+                            "2",
+                            "8",
+                            "10",
+                            "16"
+                        ],
+                        "dap_an_dung": 0
+                    }
+                ]
+            }
+        },
+        "Anh văn 3": {
+            "TA001": {
+                "ten_de": "Đề thi Anh văn 3",
+                "ngay_den_han": "21-06-2025",
+                "cau_hoi": []
+            }
+        }
+    }
+}

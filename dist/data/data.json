@@ -1,0 +1,159 @@
+{
+    "mon_thi": [
+        {
+            "ma_mon": "T001",
+            "ten_mon": "Bảo mật máy tính"
+        },
+        {
+            "ma_mon": "T002",
+            "ten_mon": "Lập trình Python"
+        },
+        {
+            "ma_mon": "T003",
+            "ten_mon": "Mạng máy tính"
+        },
+        {
+            "ma_mon": "T004",
+            "ten_mon": "Cơ sở dữ liệu"
+        },
+        {
+            "ma_mon": "T005",
+            "ten_mon": "Khoa học Máy tính"
+        },
+        {
+            "ma_mon": "T006",
+            "ten_mon": "Anh văn 3"
+        },
+        {
+            "ma_mon": "M007",
+            "ten_mon": "Kinh tế Chính trị",
+            "han_nop_bai": null
+        }
+    ],
+    "cau_hoi": {
+        "Bảo mật máy tính": {},
+        "Lập trình Python": {},
+        "Mạng máy tính": {},
+        "Cơ sở dữ liệu": {},
+        "Khoa học Máy tính": {},
+        "Anh văn 3": {},
+        "Kinh tế Chính trị": {
+            "DE001": {
+                "ten_de": "Đề thi Kinh tế Chính trị từ OpenTDB",
+                "cau_hoi": [
+                    {
+                        "id": 1,
+                        "cau_hoi": "How many planets are in our Solar System?",
+                        "dap_an": [
+                            "Ten",
+                            "Nine",
+                            "Seven",
+                            "Eight"
+                        ],
+                        "dap_an_dung": 3
+                    },
+                    {
+                        "id": 2,
+                        "cau_hoi": "Which of these is NOT a part of the structure of a typical neuron?",
+                        "dap_an": [
+                            "Islets of Langerhans",
+                            "Node of Ranvier",
+                            "Schwann cell",
+                            "Myelin sheath"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 3,
+                        "cau_hoi": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+                        "dap_an": [
+                            "Bell&#039;s Theorem",
+                            "Carnot&#039;s Theorem",
+                            "Wick&#039;s Theorem",
+                            "Noether&#039;s Theorem"
+                        ],
+                        "dap_an_dung": 3
+                    },
+                    {
+                        "id": 4,
+                        "cau_hoi": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+                        "dap_an": [
+                            "Benzene",
+                            "Acetone",
+                            "Water",
+                            "Mercury"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 5,
+                        "cau_hoi": "What is the hottest planet in the solar system",
+                        "dap_an": [
+                            "Mars",
+                            "Jupiter",
+                            "Mercury ",
+                            "Venus"
+                        ],
+                        "dap_an_dung": 3
+                    },
+                    {
+                        "id": 6,
+                        "cau_hoi": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+                        "dap_an": [
+                            "Caesium",
+                            "Gallium",
+                            "Mercury",
+                            "Beryllium"
+                        ],
+                        "dap_an_dung": 3
+                    },
+                    {
+                        "id": 7,
+                        "cau_hoi": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+                        "dap_an": [
+                            "Pollen",
+                            "Trees",
+                            "Water",
+                            "Light"
+                        ],
+                        "dap_an_dung": 3
+                    },
+                    {
+                        "id": 8,
+                        "cau_hoi": "The Western Lowland Gorilla is scientifically know as?",
+                        "dap_an": [
+                            "Gorilla Beringei Beringei",
+                            "Gorilla Gorilla Gorilla",
+                            "Gorilla Beringei Graueri",
+                            "Gorilla Gorilla Diehli"
+                        ],
+                        "dap_an_dung": 1
+                    },
+                    {
+                        "id": 9,
+                        "cau_hoi": "Which scientific unit is named after an Italian nobleman?",
+                        "dap_an": [
+                            "Volt",
+                            "Hertz",
+                            "Ohm",
+                            "Pascal"
+                        ],
+                        "dap_an_dung": 0
+                    },
+                    {
+                        "id": 10,
+                        "cau_hoi": "Which of these is a semiconductor amplifying device?",
+                        "dap_an": [
+                            "diode",
+                            "tube",
+                            "P-N junction",
+                            "transistor"
+                        ],
+                        "dap_an_dung": 3
+                    }
+                ],
+                "thoi_gian_lam_bai": 60
+            }
+        }
+    }
+}

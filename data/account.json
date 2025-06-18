@@ -1,0 +1,16 @@
+{
+    "users": {
+        "admin": {
+            "password": "admin123",
+            "role": "admin"
+        },
+        "phungly": {
+            "password": "phungly123",
+            "role": "user"
+        },
+        "phùng thị ly": {
+            "password": "ly1809@L",
+            "role": "user"
+        }
+    }
+}
