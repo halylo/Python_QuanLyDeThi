@@ -48,8 +48,20 @@
 
 
 📂 Cấu trúc project
-
-├── run.py │ ├── main.py │ ├── src/ │ ├── quiz_app.py │ ├── data_manager.py │ ├── api_crawler.py │ ├── ui/ │ │ ├── login_ui.py │ │ ├── main_ui.py │ │ ├── account_ui.py │ │ ├── result_ui.py │ │ └── mode_selection_ui.py │ ├── data/
+```bash
+├── run.py
+├── main.py
+├── src/
+│ ├── quiz_app.py
+│ ├── data_manager.py
+│ ├── api_crawler.py
+│ ├── ui/
+│ │ ├── login_ui.py
+│ │ ├── main_ui.py
+│ │ ├── account_ui.py
+│ │ ├── result_ui.py
+│ │ └── mode_selection_ui.py
+├── data/
 ---
 
 ## ▶️ Cách chạy project
