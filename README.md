@@ -124,7 +124,7 @@ https://opentdb.com/api.php
   <br><br>
   <img src="https://github.com/user-attachments/assets/117fa3af-cab8-4323-ad1d-23c8af0ca21f" width="600"/>
 </p>
-```
+
 ---
 
 ## 👨‍💻 Tác giả
