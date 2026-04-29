@@ -46,7 +46,7 @@
 
 ## 📂 Cấu trúc project
 
-.
+
 ├── run.py
 ├── main.py
 ├── src/
