@@ -118,8 +118,12 @@ https://opentdb.com/api.php
 ---
 
 ## 📸 Demo
-<img width="1201" height="900" alt="image" src="https://github.com/user-attachments/assets/48d58481-ef7b-4deb-87d9-6f9e72bef793" />
-<img width="1152" height="788" alt="image" src="https://github.com/user-attachments/assets/117fa3af-cab8-4323-ad1d-23c8af0ca21f" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48d58481-ef7b-4deb-87d9-6f9e72bef793" width="600"/>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/117fa3af-cab8-4323-ad1d-23c8af0ca21f" width="600"/>
+</p>
 
 ---
 
